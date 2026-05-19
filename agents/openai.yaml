@@ -1,0 +1,7 @@
+interface:
+  display_name: "WeChat Topic Briefing"
+  short_description: "Turn WeChat articles into topic summaries and audio."
+  default_prompt: "Use $wechat-topic-briefing to extract WeChat article links, summarize a chosen topic, and generate an audio overview."
+policy:
+  allow_implicit_invocation: true
+
