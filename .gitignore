@@ -1,0 +1,12 @@
+links.md
+wechat_history_links.md
+wechat_history_copies/
+sources_wechat/
+topic_pack/
+audio/
+*.sqlite
+*.db
+*.wxbak
+__pycache__/
+*.pyc
+
